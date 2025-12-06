@@ -3,5 +3,6 @@ const a=()=>{
 }
 
 const b=()=>{
-alert(" 5")
+    alert("5")
+return "5"
 }
