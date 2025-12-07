@@ -8,12 +8,16 @@ return "5"
 }
 
 
+const e = ()=>{
+    alert("e")
+}
 const d = ()=>{
     confirm("Are yot sure?")
 }
 
 const c =() =>{
 console.log("function c");
+
 
 
 }
